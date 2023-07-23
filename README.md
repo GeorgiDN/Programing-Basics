@@ -1,5 +1,4 @@
-[Exam-Preparation-March-2021.docx]
-(https://github.com/GeorgiDN/Programing-Basics/files/12138372/Exam-Preparation-March-2021.docx)
+
 
 airline = input()
 num_tickets_adult = int(input())
