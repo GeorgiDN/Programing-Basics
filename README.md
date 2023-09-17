@@ -5,3 +5,6 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 
 
 ![image](https://user-images.githubusercontent.com/68993494/185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487.png)
+
+## Table of Contents:
+➡ [Conditional Statements]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20)
