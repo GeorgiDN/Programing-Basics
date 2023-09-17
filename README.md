@@ -8,3 +8,5 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 
 ## Table of Contents:
 ➡ [Conditional Statements]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20)
+
+➡ [Conditional Statements Advanced - lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20-%20Advanced)
