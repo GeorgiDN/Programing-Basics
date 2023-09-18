@@ -10,3 +10,5 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 ➡ [Conditional Statements]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20)
 
 ➡ [Conditional Statements Advanced - lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20-%20Advanced)
+
+➡ [Conditional Statements Advanced - Exercises]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20%20Advanced%20-%20Exercise)
