@@ -16,3 +16,5 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 ➡ [Conditional Statements Advanced – More Exercises]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20%20Advanced%20-%20More%20Exercises)
 
 ➡ [For Loop - lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20Lab)
+
+➡ [For Loop - Exercise](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20Exercise)
