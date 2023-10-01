@@ -9,14 +9,16 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 ## Table of Contents:
 ➡ [Conditional Statements]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20)
 
-➡ [Conditional Statements Advanced - lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20-%20Advanced)
+➡ [Conditional Statements Advanced - Lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20-%20Advanced)
 
 ➡ [Conditional Statements Advanced - Exercises]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20%20Advanced%20-%20Exercise)
 
 ➡ [Conditional Statements Advanced – More Exercises]( https://github.com/GeorgiDN/Programing-Basics/tree/main/Conditional%20Statements%20%20Advanced%20-%20More%20Exercises)
 
-➡ [For Loop - lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20Lab)
+➡ [For Loop - Lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20Lab)
 
 ➡ [For Loop - Exercise](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20Exercise)
 
 ➡ [For Loop - More Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20More%20Exercises)
+
+➡ [While Loop - Lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/While%20Loop%20-%20Lab)
