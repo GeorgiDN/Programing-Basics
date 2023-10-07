@@ -3,4 +3,6 @@ Softuni Judge system: https://judge.softuni.org/Contests/Practice/Index/1745#0
 
 ➡[1. Pool Day](https://judge.softuni.org/Contests/Practice/DownloadResource/6146)
 
-➡[2. Family Trip ](https://judge.softuni.org/Contests/Practice/DownloadResource/6150)
+➡[2. Family Trip](https://judge.softuni.org/Contests/Practice/DownloadResource/6150)
+
+➡[3. Travel Agency](https://judge.softuni.org/Contests/Practice/DownloadResource/6156)
