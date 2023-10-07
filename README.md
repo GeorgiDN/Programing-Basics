@@ -22,3 +22,5 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 ➡ [For Loop - More Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/For%20Loop%20-%20More%20Exercises)
 
 ➡ [While Loop - Lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/While%20Loop%20-%20Lab)
+
+➡ [While Loop - Exercise](https://github.com/GeorgiDN/Programing-Basics/tree/main/While%20Loop%20-%20Exercise)
