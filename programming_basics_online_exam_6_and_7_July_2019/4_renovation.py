@@ -1,28 +1,27 @@
-from math import ceil
-wall_height = int(input())
-wall_width = int(input())
-percent_input = int(input())
-percent_non_painted_walls = percent_input / 100
+import math
 
-total_area_for_painting = (wall_height * wall_width * 4)
-total_area_for_painting -= total_area_for_painting * percent_non_painted_walls
-liters_paint = 0
+height = int(input())
+width = int(input())
+percentageWindowsAndDoors = int(input())
+input_str = input()
+totalArea = height * width * 4
+wallArea = totalArea - (totalArea / 100 * percentageWindowsAndDoors)
+litersNeed = math.ceil(wallArea)
+litersUsed = 0
+totalLitersUsed = 0
 
-while True:
-    command = input()
-    if command == "Tired!":
-        print(f"{ceil(total_area_for_painting)} quadratic m left.")
+while input_str != "Tired!":
+    litersUsed = int(input_str)
+    totalLitersUsed += litersUsed
+
+    if totalLitersUsed == litersNeed:
+        print(f"All walls are painted! Great job, Pesho!")
+        break
+    elif totalLitersUsed > litersNeed:
+        print(f"All walls are painted and you have {totalLitersUsed - litersNeed} l paint left!")
         break
 
-    liters_paint = int(command)
-    total_area_for_painting -= liters_paint
+    input_str = input()
 
-    if total_area_for_painting <= 0:
-        if liters_paint <= 0:
-            print("All walls are painted! Great job, Pesho!")
-            break
-        elif liters_paint > 0:
-            total_area_for_painting = abs(total_area_for_painting)
-            total_area_for_painting = ceil(total_area_for_painting)
-            print(f"All walls are painted and you have {total_area_for_painting} l paint left!")
-            break
+if input_str == "Tired!":
+    print(f"{litersNeed - totalLitersUsed} quadratic m left.")
