@@ -33,3 +33,7 @@ if not non_played_games:
         f"## D: {draws}\n"
         f"## L: {lost}")
     print(f"Win rate: {win_rate:.2f}%")
+
+
+#https://judge.softuni.org/Contests/Practice/Index/1745#7
+# Condition: https://judge.softuni.org/Contests/Practice/DownloadResource/6162
