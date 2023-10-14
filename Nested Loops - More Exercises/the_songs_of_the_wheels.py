@@ -1,29 +1,26 @@
-control_value = int(input())
-digit_counter = 0
+control_number = int(input())
+counter = 0
+password = 0
+fourth_num = False
 
-a = 0
-b = 0
-c = 0
-d = 0
+for a in range(1, 10):
+    for b in range(1, 10):
+        for c in range(1, 10):
+            for d in range(1, 10):
+                needed_num = (a * b) + (c * d)
 
-for digit_1 in range(1, 10):
-    for digit_2 in range(1, 10):
-        for digit_3 in range(1, 10):
-            for digit_4 in range(1, 10):
-                if digit_1 < digit_2 and digit_3 > digit_4 and (digit_1 * digit_2) + (digit_3 * digit_4) == \
-                        control_value:
-                    number = f'{digit_1}{digit_2}{digit_3}{digit_4}'
-                    print(number, end=' ')
-                    digit_counter += 1
-                    if digit_counter == 4:
-                        a = digit_1
-                        b = digit_2
-                        c = digit_3
-                        d = digit_4
+                if a < b and c > d and needed_num == control_number:
+                    print(f"{a}{b}{c}{d} ", end="")
+                    counter += 1
 
-if digit_counter >= 4:
-    print()
-    print(f'Password: {a}{b}{c}{d}')
-elif digit_counter < 4:
-    print('No!')
-  
+                    if counter == 4:
+                        password = 1000 * a + 100 * b + 10 * c + d
+                        fourth_num = True
+
+print()
+
+if fourth_num:
+    print(f"Password: {password}")
+else:
+    print("No!")
+    
