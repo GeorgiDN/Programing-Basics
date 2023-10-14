@@ -28,3 +28,7 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 ➡ [While Loop - More-Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/While%20Loop%20-%20More%20Exercises)
 
 ➡ [Nested Loops - Lab](https://github.com/GeorgiDN/Programing-Basics/tree/main/Nested%20Loops%20-%20Lab)
+
+➡ [Nested Loops - Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/Nested%20Loops%20-%20Exercise)
+
+
