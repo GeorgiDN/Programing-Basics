@@ -33,4 +33,6 @@ Online judge system - https://judge.softuni.org/Contests#!/List/ByCategory/248/P
 
 ➡ [Nested Loops - More Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/Nested%20Loops%20-%20More%20Exercises)
 
+➡ [Drawing Figures with Loops - More Exercises](https://github.com/GeorgiDN/Programing-Basics/tree/main/Drawing%20Figures%20with%20Loops%20-%20More%20Exercises)
+
 
