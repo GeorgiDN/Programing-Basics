@@ -38,3 +38,26 @@ elif city == 'Varna':
         price = quantity * 1.55
 
 print(price)
+
+
+
+
+# Do not do this!
+
+# product, city, quantity = input(), input(), float(input())
+# print(quantity * 0.50 if city == 'Sofia' and product == 'coffee' 
+#       else quantity * 0.80 if city == 'Sofia' and product == 'water'
+#       else quantity * 1.20 if city == 'Sofia' and product == 'beer'
+#       else quantity * 1.45 if city == 'Sofia' and product == 'sweets'
+#       else quantity * 1.60 if city == 'Sofia' and product == 'peanuts'
+#       else quantity * 0.40 if city == 'Plovdiv' and product == 'coffee'  
+#       else quantity * 0.70 if city == 'Plovdiv' and product == 'water'
+#       else quantity * 1.15 if city == 'Plovdiv' and product == 'beer'
+#       else quantity * 1.30 if city == 'Plovdiv' and product == 'sweets'
+#       else quantity * 1.50 if city == 'Plovdiv' and product == 'peanuts'
+#       else quantity * 0.45 if city == 'Varna' and product == 'coffee'  
+#       else quantity * 0.70 if city == 'Varna' and product == 'water'
+#       else quantity * 1.10 if city == 'Varna' and product == 'beer'
+#       else quantity * 1.35 if city == 'Varna' and product == 'sweets'
+#       else quantity * 1.55 if city == 'Varna' and product == 'peanuts'
+#       else "")
