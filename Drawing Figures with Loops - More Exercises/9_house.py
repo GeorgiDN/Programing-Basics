@@ -1,3 +1,4 @@
+n = int(input())
 roof_rows = (n + 1) // 2
 
 for row in range(roof_rows):
